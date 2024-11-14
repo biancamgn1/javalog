@@ -1,0 +1,10 @@
+.text-area {
+    -fx-control-inner-background: #2b2b2b; /* Inner background color */
+    -fx-text-fill: white;                  /* Text color */
+    -fx-highlight-fill: #555555;           /* Text selection color */
+    -fx-highlight-text-fill: white;        /* Text selection text color */
+}
+
+.text-field{
+    -fx-text-fill: white;
+}

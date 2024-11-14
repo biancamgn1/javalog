@@ -1,0 +1,7 @@
+ilimbag("Hello World!")
+int x = 0
+kung(x > 0){
+	ilimbag("Malaki si x")	
+	}edi{
+	ilimbag("Maliit si x")
+	}
